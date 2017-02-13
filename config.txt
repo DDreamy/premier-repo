@@ -1,2 +1,2 @@
 voici la configuration de mon projet.
-
+copyright c 2017 - DDreamy
