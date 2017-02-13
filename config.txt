@@ -1,0 +1,2 @@
+voici la configuration de mon projet.
+
